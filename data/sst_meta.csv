@@ -1,0 +1,5 @@
+"This file describes the how we have structured the CORTAD dataset for this project."
+"There are three .csv files:"
+"(1) sst_raw.csv, with dates as columns (format XYEARMONTHDAY_SST, e.g. X20091231_SST is December 31st 2009), and sites_distance as rows (which are explained in the next file);"
+"(2) sst_coords.csv, which contains site names and the distances in metres from a reference coordinate for each site. Importantly, the rows order match between the data files (1) and (2). For the purposes of this study, we only used SST data from 50 m distance coordinates;"
+"(3) sites_coords.csv, which contains the reference geographic coordinates of each site, and also shapes and colours that were used to distinguish the different sites in figures 1 and 3 in the paper;"

@@ -1,0 +1,10 @@
+# this table shows the water temperature (in celsius) registered during the dives using a dive computer
+site, dive_temperature
+puerto_rico, 27.0
+tamandare, 28.0
+salvador, 28.0
+abrolhos, 27.5
+trindade,
+guarapari, 23.0
+arraial, 22.0
+florianopolis, 18.0
