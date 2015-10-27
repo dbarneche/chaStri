@@ -206,7 +206,7 @@ fig3  <-  function() {
 		results1$fit[prop1$selection == 'Inf']  <-   62 #arbitrary value, high selectivity
 	
 		plotCI(seq_along(foodOrder)[results1$fit <= 8], results1$fit[results1$fit <= 8], uiw=1.96*results1$se[results1$fit <= 8], xaxt='n', yaxt='n', xlab='Food item', ylab='', pch=coords$shape[coords$site == siteOrder[i]], col='black', pt.bg=coords$color[coords$site == siteOrder[i]], ylim=c(-0.5,10), las=1, cex=0.8)
-		axis(2, at=seq(0, 8, 2), las=1)
+		axis(2, at=seq(0, 6, 2), las=1)
 		outLierX  <-  seq_along(foodOrder)[results1$fit > 8]
 		outLierY  <-  results1$fit[results1$fit > 8]
 		if(length(outLierX) > 0) {
@@ -221,7 +221,7 @@ fig3  <-  function() {
 	axis(1, seq_along(foodOrder), rep('', length(foodOrder)), las=2)
 	text(seq_along(foodOrder), rep(-3, length(foodOrder)), gsub('_', ' ', foodOrder), xpd=NA, cex=0.8, srt=45, adj=c(1, 1))
 	mtext('Strength selection', outer=TRUE, side=2, cex=1.5)
-	mtext('Food item', outer=TRUE, side=1, cex=1.5, line=-0.5)
+	mtext('Substratum', outer=TRUE, side=1, cex=1.5, line=-0.5)
 }
 
 fig4  <-  function() {
