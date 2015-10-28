@@ -1,10 +1,10 @@
 species,local,site,latitude,longitude,field.day,fixation,conservation,individual,sdf,feedItem,phylum,lowerClassItem,mediumClassItem,highClassItem,volume_mm3,table3Category
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,114,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,114,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,114,3,sandy,,-,-,-,0.5,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,114,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,100,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,114,3,polychaeta_outro,Annelida,Polychaeta,-,-,4.7,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,114,3,crustacea_tanaidacea,Arthropoda,Malacostraca,Tanaidacea,-,0.2,18.CRUSTACEA Others
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,115,1,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,150,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,115,1,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,150,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,115,1,sandy,,-,-,-,0.1,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,115,1,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,91,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,115,1,algae,-,-,-,Dictyota sp.,6,01.ALGAE
@@ -29,11 +29,11 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,polychaeta_nereidae,Annelida,Polychaeta,Nereidae,-,2,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,polychaeta_terebellidae,Annelida,Polychaeta,Terebellidae,-,9,13.Terebellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,18,09.Serpulidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,25,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,25,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,foraminiferida,Sarcomastigophora,Granuloreticulosea,Foraminiferida,-,1e-04,22.OTHER
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,118,4,polychaeta_eunicidae,Annelida,Polychaeta,Eunicidae,-,6,11.Eunicidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,119,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,1,09.Serpulidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,119,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,68,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,119,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,68,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,119,3,polychaeta_outro,Annelida,Polychaeta,-,-,67,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,119,3,algae,-,-,-,-,1,01.ALGAE
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,119,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,182,06.Hexac. Corallim./ Scle.
@@ -45,10 +45,10 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,120,4,unidentified,-,-,-,-,0.5,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,120,4,eggs_mollusca,Mollusca,-,-,-,4,19.EGGS Mollusca
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,120,4,calcareous_skeletons,-,-,-,-,8,23.INORGANIC
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,120,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,70,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,120,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,70,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,120,4,unidentified,-,-,-,-,10,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,121,3,polychaeta_outro,Annelida,Polychaeta,-,-,21,14.POLYCHAETA Other
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,121,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,25,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,121,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,25,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,121,3,unidentified,-,-,-,-,1,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,121,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,61,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,122,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,13,09.Serpulidae
@@ -56,7 +56,7 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,122,4,unidentified,-,-,-,-,0.7,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,122,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,19,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,123,2,polychaeta_outro,Annelida,Polychaeta,-,-,16.1,14.POLYCHAETA Other
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,123,2,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,17,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,123,2,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,17,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,123,2,sandy,-,-,-,-,1,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,123,2,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,86,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,123,2,fish_scales,Chordata,Piscis,-,-,1,22.OTHER
@@ -64,10 +64,10 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,124,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,110,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,124,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,16.5,09.Serpulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,124,3,polychaeta_outro,Annelida,Polychaeta,-,-,110,14.POLYCHAETA Other
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,124,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,124,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,124,3,crustacea_decapoda_caridea_alpheidae,Arthropoda,Malacostraca,Alpheidae,-,0.02,17.Decapoda
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,125,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,0.2,09.Serpulidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,125,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,31,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,125,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,31,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,125,3,calcareous_skeletons,-,-,-,-,0.1,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,125,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,79,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,125,3,polychaeta_outro,Annelida,Polychaeta,-,-,35,14.POLYCHAETA Other
@@ -75,12 +75,12 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,6,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,polychaeta_outro,Annelida,Polychaeta,-,-,88,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,polychaeta_syllidae,Annelida,Polychaeta,Syllidae,-,1,12.Syllidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,18,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,18,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,0.5,09.Serpulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,0.001,02.Hydrozoa
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,eggs_mollusca,Mollusca,-,-,-,1.5,19.EGGS Mollusca
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,126,3,unidentified,-,-,-,-,0.001,25.UNIDENTIFIED
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,127,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,11,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,127,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,11,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,127,3,foraminiferida,Sarcomastigophora,Granuloreticulosea,Foraminiferida,-,0.3,22.OTHER
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,127,3,echinodermata_echinoidea,Echinodermata,Echinoidea,-,-,0.2,22.OTHER
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,127,3,calcareous_skeletons,-,-,-,-,2.5,23.INORGANIC
@@ -92,7 +92,7 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,1,09.Serpulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,polychaeta_outro,Annelida,Polychaeta,-,-,32,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,calcareous_skeletons,-,-,-,-,0.1,23.INORGANIC
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,15,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,15,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,unidentified,-,-,-,-,0.05,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,129,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,20,02.Hydrozoa
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,130,4,algae,-,-,-,Dictyota Ciliolata,10,01.ALGAE
@@ -101,7 +101,7 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,131,4,polychaeta_outro,Annelida,Polychaeta,-,-,6,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,131,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,6.5,09.Serpulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,131,4,cnidaria_anthozoa_octocorallia,Cnidaria,Anthozoa,Octocorallia,-,0.7,03.Octocorallia
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,132,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,201,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,132,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,201,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,132,3,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,1.3,19.EGGS Mollusca
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,132,3,polychaeta_outro,Annelida,Polychaeta,-,-,34,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,132,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,10,06.Hexac. Corallim./ Scle.
@@ -109,9 +109,9 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,133,3,polychaeta_outro,Annelida,Polychaeta,-,-,16.5,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,133,3,calcareous_skeletons,-,-,-,-,0.1,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,133,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,50,09.Serpulidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,133,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,133,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,133,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,39,06.Hexac. Corallim./ Scle.
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,134,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,75,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,134,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,75,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,134,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,240,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,134,4,sandy,-,-,-,-,7,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,134,4,polychaeta_outro,Annelida,Polychaeta,-,-,20,14.POLYCHAETA Other
@@ -120,17 +120,17 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,45,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,eggs_crustacea,Arthropoda,Crustacea,-,-,0.3,20.EGGS Crustacea
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,0.01,09.Serpulidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,41,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,41,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,echinodermata_echinoidea,Echinodermata,Echinoidea,-,-,1,22.OTHER
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,sandy,-,-,-,-,0.5,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,135,3,polychaeta_outro,Annelida,Polychaeta,-,-,40,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,136,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,75,07.Hexac. Other
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,136,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,10,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,136,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,10,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,136,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,0.025,09.Serpulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,136,3,polychaeta_outro,Annelida,Polychaeta,-,-,17,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,136,3,unidentified,-,-,-,-,3,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,137,4,crustacea_decapoda_caridea_alpheidae,Arthropoda,Malacostraca,Alpheidae,-,3,17.Decapoda
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,137,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,81,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,137,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,81,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,137,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,2,19.EGGS Mollusca
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,137,4,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,0.01,15.Amphipoda
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,137,4,calcareous_skeletons,-,-,-,-,0.2,23.INORGANIC
@@ -141,29 +141,29 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,6,19.EGGS Mollusca
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,polychaeta_outro,Annelida,Polychaeta,-,-,20,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,42,06.Hexac. Corallim./ Scle.
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1.5,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1.5,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,0.3,09.Serpulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,crustacea_outro,Arthropoda,Crustacea,-,-,1,18.CRUSTACEA Others
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,138,1,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,8,10.Cirratulidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,39,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,2,09.Serpulidae
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,polychaeta_outro,Annelida,Polychaeta,-,-,21,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,crustacea_isopoda_outro,Arthropoda,Malacostraca,Isopoda,-,6,16.Isopoda
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,139,3,calcareous_skeletons,-,-,-,-,0.2,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,140,2,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,39,07.Hexac. Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,140,2,polychaeta_outro,Annelida,Polychaeta,-,-,20,14.POLYCHAETA Other
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,140,2,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,140,2,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,140,2,algae,-,-,-,-,3.5,01.ALGAE
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,140,2,polychaeta_nereidae,Annelida,Polychaeta,Nereidae,-,10,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,polychaeta_eunicidae,Annelida,Polychaeta,Eunicidae,-,20,11.Eunicidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,polychaeta_outro,Annelida,Polychaeta,-,-,11,14.POLYCHAETA Other
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,19,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,19,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,unidentified,-,-,-,-,1,25.UNIDENTIFIED
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,crustacea_amphipoda_outro,Arthropoda,Amphipoda,-,-,0.5,15.Amphipoda
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,141,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,45,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,71,06.Hexac. Corallim./ Scle.
-chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,13,08.Sabellidae
+chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,13,08.Sabellidae
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,crustacea_tanaidacea,Arthropoda,Malacostraca,Tanaidacea,-,0.7,18.CRUSTACEA Others
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,sandy,-,-,-,-,0.5,23.INORGANIC
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,porifera,Porifera,-,-,-,0.5,22.OTHER
@@ -173,38 +173,38 @@ chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,f
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,142,4,polychaeta_outro,Annelida,Polychaeta,-,-,71,14.POLYCHAETA Other
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,143,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,175,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,puerto_rico,la_parguera,17.934722,-67.018889,28-04_mar_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,143,3,polychaeta_nereidae,Annelida,Polychaeta,Nereidae,-,2.5,14.POLYCHAETA Other
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,22,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1.5,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,22,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1.5,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,22,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,500,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,23,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,39,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,23,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,280,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,24,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,0.5,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,24,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,173,19.EGGS Mollusca
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,25,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,25,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,25,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,38,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,25,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,28,19.EGGS Mollusca
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,25,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,37,06.Hexac. Corallim./ Scle.
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,26,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,40,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,25,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,37,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,26,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,40,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,26,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,11,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,26,4,fish_scales,Chordata,Piscis,-,-,0.5,22.OTHER
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,26,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,0.5,02.Hydrozoa
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,27,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,27,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,27,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,6,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,27,3,unidentified,-,-,-,-,30,25.UNIDENTIFIED
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,28,2,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,18,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,28,2,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,78,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,28,2,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,1.5,15.Amphipoda
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,28,2,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,22,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,28,2,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,22,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,29,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,15,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,29,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,25,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,29,4,crustacea_mysida,Arthropoda,Malacostraca,Mysida,-,1,18.CRUSTACEA Others
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,29,4,fish_scales,Chordata,Piscis,-,-,0.5,22.OTHER
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,29,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,20,07.Hexac. Other
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,04_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,29,4,unidentified,-,-,-,-,1,25.UNIDENTIFIED
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,24,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,24,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,57,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,crustacea_copepoda,Arthropoda,Maxillopoda,Copepoda,-,1e-04,18.CRUSTACEA Others
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,18,19.EGGS Mollusca
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,48,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,48,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,0.6,02.Hydrozoa
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,unidentified,-,-,-,-,1.5,25.UNIDENTIFIED
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,30,4,eggs_mollusca,Mollusca,-,-,-,26,19.EGGS Mollusca
@@ -220,7 +220,7 @@ chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_m
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,34,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,1,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,34,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,255,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,34,4,unidentified,-,-,-,-,0.1,25.UNIDENTIFIED
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,35,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,35,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,35,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,37,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,35,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,209,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,35,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,23,07.Hexac. Other
@@ -228,14 +228,14 @@ chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_m
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,36,2,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,18,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,36,2,digested_organic_matter,-,-,-,-,40,24.DIGESTED ORGANIC MATTER
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,36,2,algae,-,-,-,-,0.01,01.ALGAE
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,37,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,2,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,37,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,2,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,37,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,32,10.Cirratulidae
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,37,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,18,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,37,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,18,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,07_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,37,3,unidentified,-,-,-,-,0.2,25.UNIDENTIFIED
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,12,08.Sabellidae
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,12,08.Sabellidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,72,10.Cirratulidae
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,6,19.EGGS Mollusca
-chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,52,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,52,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,eggs_mollusca,Mollusca,-,-,-,1,19.EGGS Mollusca
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,unidentified,-,-,-,-,0.05,25.UNIDENTIFIED
 chaetodon_striatus,tamandare,igrejinha_e_ilha.do.norte,-8.739861,-35.083806,01_may_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,38,4,angiosperma,-,Angiosperma,-,-,1,22.OTHER
@@ -286,18 +286,18 @@ chaetodon_striatus,salvador,farol.da.barra_e_yacth,-12,-38,01_may_2011,formaldeh
 chaetodon_striatus,salvador,farol.da.barra_e_yacth,-12,-38,01_may_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,175,1,sandy,-,-,-,-,2,23.INORGANIC
 chaetodon_striatus,salvador,farol.da.barra_e_yacth,-12,-38,01_may_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,175,1,fish_scales,Chordata,Piscis,-,-,0.001,22.OTHER
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,39,3,crustacea_tanaidacea,Arthropoda,Malacostraca,Tanaidacea,-,0.5,18.CRUSTACEA Others
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,39,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,39,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,39,3,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,0.5,19.EGGS Mollusca
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,39,3,cnidaria_anthozoa_hexacorallia_actiniaria,Cnidaria,Anthozoa,Actiniaria,-,58,04.Hexac. Actiniaria
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,39,3,algae,-,-,-,-,1,01.ALGAE
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,40,4,crustacea_decapoda_outro,Arthropoda,Malacostraca,Decapoda,-,1,17.Decapoda
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,40,4,polychaeta_terebellidae,Annelida,Polychaeta,Terebellidae,-,3,13.Terebellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,40,4,unidentified,-,-,-,-,0.25,25.UNIDENTIFIED
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,41,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,85,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,41,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,85,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,41,4,cnidaria_anthozoa_hexacorallia_actiniaria,Cnidaria,Anthozoa,Actiniaria,-,110,04.Hexac. Actiniaria
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,41,4,algae,-,-,-,-,6,01.ALGAE
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,42,4,polychaeta_terebellidae,Annelida,Polychaeta,Terebellidae,-,14,13.Terebellidae
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,42,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,14,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,42,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,14,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,42,4,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,0.5,15.Amphipoda
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,42,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,278,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,42,4,unidentified,-,-,-,-,21,25.UNIDENTIFIED
@@ -307,7 +307,7 @@ chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,02_mar_2010,formaldehyd
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,44,4,nematomorpha,Nematomorpha,-,-,-,1.5,22.OTHER
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,44,4,digested_organic_matter,-,-,-,-,170,24.DIGESTED ORGANIC MATTER
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,44,4,crustacea_outro,Arthropoda,Crustacea,-,-,2,18.CRUSTACEA Others
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,105,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,105,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,2.5,19.EGGS Mollusca
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,algae,-,-,-,-,2,01.ALGAE
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,polychaeta_syllidae,Annelida,Polychaeta,Syllidae,-,0.06,12.Syllidae
@@ -315,7 +315,7 @@ chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyd
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,polychaeta_outro,Annelida,Polychaeta,-,-,44,14.POLYCHAETA Other
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,45,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,1,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,46,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,260,07.Hexac. Other
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,46,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,140,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,46,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,140,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,46,4,algae,-,-,-,-,11,01.ALGAE
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,47,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,337,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,48,4,cnidaria_anthozoa_hexacorallia_actiniaria,Cnidaria,Anthozoa,Actiniaria,-,210,04.Hexac. Actiniaria
@@ -323,9 +323,9 @@ chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyd
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,49,4,unidentified,-,-,-,-,18,25.UNIDENTIFIED
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,49,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,171,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,50,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,175,07.Hexac. Other
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,50,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,3,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,50,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,3,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,50,3,polychaeta_outro,Annelida,Polychaeta,-,-,0.5,14.POLYCHAETA Other
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,51,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,51,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,51,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,2,15.Amphipoda
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,51,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,154,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,51,3,algae,-,-,-,-,0.3,01.ALGAE
@@ -334,13 +334,13 @@ chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyd
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,52,4,polychaeta_outro,Annelida,Polychaeta,-,-,16,14.POLYCHAETA Other
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,53,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,140,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,53,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,14,10.Cirratulidae
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,53,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,2,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,53,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,2,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,54,3,calcareous_skeletons,-,-,-,-,6,23.INORGANIC
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,54,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,24,10.Cirratulidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,54,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,127,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,55,2,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,52,10.Cirratulidae
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,55,2,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,3,08.Sabellidae
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,56,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,35,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,55,2,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,3,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,56,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,35,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,56,4,polychaeta_oweniidae,Annelida,Polychaeta,Oweniidae,-,25,14.POLYCHAETA Other
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,56,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,90,07.Hexac. Other
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,56,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,30,10.Cirratulidae
@@ -349,7 +349,7 @@ chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,01_mar_2010,formaldehyd
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,57,4,polychaeta_terebellidae,Annelida,Polychaeta,Terebellidae,-,2,13.Terebellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,57,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,19,10.Cirratulidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,57,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,149,07.Hexac. Other
-chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,58,2,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,35,08.Sabellidae
+chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,58,2,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,35,08.Sabellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,58,2,polychaeta_terebellidae,Annelida,Polychaeta,Terebellidae,-,3,13.Terebellidae
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,58,2,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,170,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,abrolhos,santa.barbara,-17.333333,-39,03_mar_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,58,2,algae,-,-,-,-,6,01.ALGAE
@@ -362,7 +362,7 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,195,3,calcareous_skeletons,-,-,-,-,0.05,23.INORGANIC
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,195,3,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,239,05.Hexac. Zoantharia
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,196,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,2,02.Hydrozoa
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,196,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,0.5,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,196,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,0.5,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,196,4,polychaeta_hesionidae,Annelida,Polychaeta,Hesionidae,-,0.2,14.POLYCHAETA Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,196,4,polychaeta_syllidae,Annelida,Polychaeta,Syllidae,-,2,12.Syllidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,196,4,polychaeta_terebellidae,Annelida,Polychaeta,Terebellidae,-,31,13.Terebellidae
@@ -380,7 +380,7 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,198,1,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,27,07.Hexac. Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,198,1,echinodermata_holothuroidea,Echinodermata,Holothuroidea,Holothuriidae,-,51,22.OTHER
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,198,1,eggs_mollusca,Mollusca,-,-,-,1,19.EGGS Mollusca
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,198,1,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,198,1,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,199,3,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,127,05.Hexac. Zoantharia
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,199,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,1,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,199,3,calcareous_skeletons,-,-,-,-,4,23.INORGANIC
@@ -401,7 +401,7 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,139,05.Hexac. Zoantharia
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,polychaeta_outro,Annelida,Polychaeta,-,-,1,14.POLYCHAETA Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,calcareous_skeletons,-,-,-,-,0.001,23.INORGANIC
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,7,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,7,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,echinodermata_holothuroidea,Echinodermata,Holothuroidea,Holothuriidae,-,1,22.OTHER
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,201,4,unidentified,-,-,-,-,4,25.UNIDENTIFIED
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,202,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,270,06.Hexac. Corallim./ Scle.
@@ -443,17 +443,17 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,1.5,05.Hexac. Zoantharia
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,5,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,algae,-,-,-,-,1,01.ALGAE
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,14,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,14,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,eggs_mollusca,Mollusca,-,-,-,1,19.EGGS Mollusca
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,1,15.Amphipoda
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,207,3,crustacea_outro,Arthropoda,Crustacea,-,-,0.5,18.CRUSTACEA Others
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,208,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,250,07.Hexac. Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,208,4,calcareous_skeletons,-,-,-,-,23,23.INORGANIC
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,208,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,70,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,208,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,70,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,208,4,crustacea_outro,Arthropoda,Crustacea,-,-,0.5,18.CRUSTACEA Others
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,208,4,unidentified,-,-,-,-,0.5,25.UNIDENTIFIED
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,209,4,polychaeta_syllidae,Annelida,Polychaeta,Syllidae,-,0.5,12.Syllidae
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,209,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,0.5,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,209,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,0.5,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,209,4,eggs_mollusca,Mollusca,-,-,-,5,19.EGGS Mollusca
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,209,4,unidentified,-,-,-,-,2,25.UNIDENTIFIED
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,209,4,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,249,05.Hexac. Zoantharia
@@ -462,16 +462,16 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,74,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,crustacea_outro,Arthropoda,Crustacea,-,-,0.005,18.CRUSTACEA Others
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,calcareous_skeletons,-,-,-,-,0.01,23.INORGANIC
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,0.3,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,0.3,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,eggs_mollusca,Mollusca,-,-,-,4,19.EGGS Mollusca
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,210,4,fish_scales,Chordata,Piscis,-,-,10,22.OTHER
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,211,4,unidentified,-,-,-,-,55,25.UNIDENTIFIED
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,211,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,9,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,211,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,9,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,211,4,eggs_mollusca,Mollusca,-,-,-,0.5,19.EGGS Mollusca
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,211,4,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,161,05.Hexac. Zoantharia
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,211,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,2,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,212,1,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,67,07.Hexac. Other
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,212,1,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,2,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,212,1,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,2,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,212,1,polychaeta_outro,Annelida,Polychaeta,-,-,2,14.POLYCHAETA Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,212,1,crustacea_outro,Arthropoda,Crustacea,-,-,0.5,18.CRUSTACEA Others
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,212,1,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,1.1,02.Hydrozoa
@@ -484,7 +484,7 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,225,07.Hexac. Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,fish_scales,Chordata,Piscis,-,-,0.5,22.OTHER
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,polychaeta_outro,Annelida,Polychaeta,-,-,27,14.POLYCHAETA Other
-chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,26,08.Sabellidae
+chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,26,08.Sabellidae
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,unidentified,-,-,-,-,0.001,25.UNIDENTIFIED
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,eggs_other,-,-,-,-,0.001,21.EGGS Other
 chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,214,4,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,55,05.Hexac. Zoantharia
@@ -502,9 +502,9 @@ chaetodon_striatus,guarapari,ilhas.rasas,-20.666667,-40.35,29_mar_2012,formaldeh
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,250,19.EGGS Mollusca
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,algae,-,-,-,-,2.5,01.ALGAE
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,polychaeta_outro,Annelida,Polychaeta,-,-,10.3,14.POLYCHAETA Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,100,08.Sabellidae
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,cnidaria_anthozoa_octocorallia,Cnidaria ,Anthozoa,Octocorallia,-,21,03.Octocorallia
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,53,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,100,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,cnidaria_anthozoa_octocorallia,Cnidaria,Anthozoa,Octocorallia,-,21,03.Octocorallia
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,79,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,53,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,80,3,sandy,-,-,-,-,0.2,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,80,3,polychaeta_outro,Annelida,Polychaeta,-,-,40,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,80,3,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,0.2,02.Hydrozoa
@@ -512,8 +512,8 @@ chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyd
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,205,19.EGGS Mollusca
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,polychaeta_outro,Annelida,Polychaeta,-,-,152,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,eggs_mollusca,Mollusca,-,-,-,2,19.EGGS Mollusca
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,140,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,50,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,140,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,polychaeta_eunicidae,Annelida,Polychaeta,Eunicidae,-,5,11.Eunicidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,81,4,unidentified,-,-,-,-,8,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,82,3,polychaeta_outro,Annelida,Polychaeta,-,-,150,14.POLYCHAETA Other
@@ -524,23 +524,23 @@ chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyd
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,83,4,polychaeta_outro,Annelida,Polychaeta,-,-,25,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,83,4,unidentified,-,-,-,-,1,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,83,4,sandy,-,-,-,-,1,23.INORGANIC
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,83,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria ,Anthozoa,Coralliscler,-,32,06.Hexac. Corallim./ Scle.
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,83,4,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,32,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,100,19.EGGS Mollusca
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,257,07.Hexac. Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,92,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,92,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,crustacea_outro,Arthropoda,Crustacea,-,-,13,18.CRUSTACEA Others
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,algae,-,-,-,-,17,01.ALGAE
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,1,02.Hydrozoa
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,unidentified,-,-,-,-,5,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,polychaeta_outro,Annelida,Polychaeta,-,-,75,14.POLYCHAETA Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,echinodermata_outro,Echinodermata ,-,-,-,0.5,22.OTHER
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,84,4,echinodermata_outro,Echinodermata,-,-,-,0.5,22.OTHER
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,crustacea_amphipoda_outro,Arthropoda,Amphipoda,-,-,0.1,15.Amphipoda
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,cnidaria_anthozoa_hexacorallia_actiniaria,Cnidaria,Anthozoa,Actiniaria,-,160,04.Hexac. Actiniaria
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,37,19.EGGS Mollusca
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,1.5,02.Hydrozoa
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,polychaeta_outro,Annelida,Polychaeta,-,-,103,14.POLYCHAETA Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,26,08.Sabellidae
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,86,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,34,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,85,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,26,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,86,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,34,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,86,3,polychaeta_outro,Annelida,Polychaeta,-,-,62,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,86,3,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,30,19.EGGS Mollusca
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,86,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,1,15.Amphipoda
@@ -549,8 +549,8 @@ chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyd
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,86,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,44,07.Hexac. Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,10,09.Serpulidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,polychaeta_outro,Annelida,Polychaeta,-,-,80,14.POLYCHAETA Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,160,08.Sabellidae
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,cnidaria_anthozoa_octocorallia,Cnidaria ,Anthozoa,Octocorallia,-,5,03.Octocorallia
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,160,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,cnidaria_anthozoa_octocorallia,Cnidaria,Anthozoa,Octocorallia,-,5,03.Octocorallia
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,crustacea_decapoda_outro,Arthropoda,Malacostraca,Decapoda,-,8,17.Decapoda
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,5,02.Hydrozoa
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,87,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,230,07.Hexac. Other
@@ -559,22 +559,22 @@ chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyd
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,88,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,285,07.Hexac. Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,88,4,sandy,-,-,-,-,3,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,88,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,22,19.EGGS Mollusca
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,88,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,44,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,apr_to_jun_2009,formaldehyde_10_degrees,formaldehyde_5_degrees,88,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,44,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,digested_organic_matter,-,-,-,-,600,24.DIGESTED ORGANIC MATTER
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,polychaeta_outro,Annelida,Polychaeta,-,-,187,14.POLYCHAETA Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,37,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,37,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,2,09.Serpulidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,crustacea_outro,Arthropoda,Crustacea,-,-,1,18.CRUSTACEA Others
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,218,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,9,07.Hexac. Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,unidentified,-,-,-,-,42,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,160,07.Hexac. Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,12,19.EGGS Mollusca
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,4,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,calcareous_skeletons,-,-,-,-,1.5,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,219,4,crustacea_outro,Arthropoda,Crustacea,-,-,10,18.CRUSTACEA Others
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,220,4,crustacea_outro,Arthropoda,Crustacea,-,-,25,18.CRUSTACEA Others
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,220,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,158,07.Hexac. Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,220,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,78,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,220,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,78,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,220,4,polychaeta_outro,Annelida,Polychaeta,-,-,43,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,220,4,unidentified,-,-,-,-,48,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,eggs_mollusca,Mollusca,-,-,-,1,19.EGGS Mollusca
@@ -583,95 +583,95 @@ chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_de
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,crustacea_decapoda_outro,Arthropoda,Malacostraca,Decapoda,-,1,17.Decapoda
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,4,15.Amphipoda
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,sandy,-,-,-,-,1,23.INORGANIC
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,25,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,25,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,calcareous_skeletons,-,-,-,-,0.5,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,221,4,unidentified,-,-,-,-,28,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,1,02.Hydrozoa
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,5,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,5,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,polychaeta_outro,Annelida,Polychaeta,-,-,83,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,crustacea_outro,Arthropoda,Crustacea,-,-,0.01,18.CRUSTACEA Others
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,polychaeta_serpulidae,Annelida,Polychaeta,Serpulidae,-,1.5,09.Serpulidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,calcareous_skeletons,-,-,-,-,0.1,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,222,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,240,07.Hexac. Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,23,07.Hexac. Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,165,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,165,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,polychaeta_outro,Annelida,Polychaeta,-,-,26,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,unidentified,-,-,-,-,0.5,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,fish_scales,Chordata,Piscis,-,-,0.5,22.OTHER
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,calcareous_skeletons,-,-,-,-,1,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,223,4,cnidaria_anthozoa_hexacorallia_actiniaria,Cnidaria,Anthozoa,Actiniaria,-,4,04.Hexac. Actiniaria
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,224,4,polychaeta_outro,Annelida,Polychaeta,-,-,75,14.POLYCHAETA Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,224,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,102,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,224,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,102,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,224,4,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,154,05.Hexac. Zoantharia
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,224,4,calcareous_skeletons,-,-,-,-,1.5,23.INORGANIC
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,30,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,30,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,calcareous_skeletons,-,-,-,-,0.5,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,62,19.EGGS Mollusca
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,crustacea_outro,Arthropoda,Crustacea,-,-,8,18.CRUSTACEA Others
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,polychaeta_nereidae,Annelida,Polychaeta,Nereidae,-,83,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,225,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,280,07.Hexac. Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,226,4,fish_scales,Chordata,Piscis,-,-,1,22.OTHER
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,226,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,212,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,226,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,212,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,226,4,unidentified,-,-,-,-,65,25.UNIDENTIFIED
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,226,4,polychaeta_outro,Annelida,Polychaeta,-,-,90,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,105,07.Hexac. Other
-chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,145,08.Sabellidae
+chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,145,08.Sabellidae
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,polychaeta_outro,Annelida,Polychaeta,-,-,3,14.POLYCHAETA Other
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,0.5,02.Hydrozoa
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,nematoda,Nematoda,,,,0.2,22.OTHER
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,calcareous_skeletons,-,-,-,-,0.5,23.INORGANIC
 chaetodon_striatus,trindade,orelhas,-20.5,-29.333333,nov_2012,formaldehyde_10_degrees,formaldehyde_5_degrees,227,4,unidentified,-,-,-,-,12,25.UNIDENTIFIED
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,1,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,175,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,1,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,175,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,1,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,25,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,1,4,crustacea_isopoda_gnathiidae,Arthropoda,Malacostraca,Gnathiidae,-,2,16.Isopoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,1,4,unidentified,-,-,-,-,6,25.UNIDENTIFIED
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,21,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,21,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,142,05.Hexac. Zoantharia
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,sandy,-,-,-,-,0.3,23.INORGANIC
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,210,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,crustacea_leptostraca,Arthropoda,Malacostraca,Leptostraca,-,1.5,18.CRUSTACEA Others
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,crustacea_isopoda_gnathiidae,Arthropoda,Malacostraca,Gnathiidae,-,3,16.Isopoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,2,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,400,19.EGGS Mollusca
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,3,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,400,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,3,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,400,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,3,4,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,1.5,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,3,4,fish_scales,Chordata,Piscis,-,-,20,22.OTHER
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,3,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,14,19.EGGS Mollusca
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,3,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,61,07.Hexac. Other
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,4,4,eggs_mollusca,Mollusca,-,-,-,25,19.EGGS Mollusca
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,4,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,165,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,4,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,165,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,4,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,45,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,4,4,crustacea_amphipoda_caprellidae,Arthropoda,Amphipoda,Caprellidae,-,0.02,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,4,4,algae,Ocrophyta,-,-,-,0.3,01.ALGAE
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,5,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,65,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,5,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,65,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,5,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,18,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,5,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,280,07.Hexac. Other
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,6,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,6,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,9,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,polychaeta_hesionidae,Annelida,Polychaeta,Hesionidae,-,12,14.POLYCHAETA Other
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,algae,-,-,-,-,12,01.ALGAE
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,cnidaria_anthozoa_hexacorallia_zoantharia,Cnidaria,Anthozoa,Zoantharia,-,300,05.Hexac. Zoantharia
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,0.2,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,6,3,crustacea_isopoda_gnathiidae,Arthropoda,Malacostraca,Gnathiidae,-,4,16.Isopoda
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,7,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,525,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,7,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,525,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,7,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,56,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,7,4,crustacea_amphipoda_caprellidae,Arthropoda,Amphipoda,Caprellidae,-,3,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,8,4,crustacea_decapoda_caridea_outro,Arthropoda,Malacostraca,Caridea,-,11,17.Decapoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,8,4,crustacea_amphipoda_outro,Arthropoda,Amphipoda,-,-,0.2,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,8,4,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,696,19.EGGS Mollusca
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,8,4,fish_scales,Chordata,Piscis,-,-,14,22.OTHER
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,9,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,32,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,9,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,32,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,9,4,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,3,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,9,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,305,07.Hexac. Other
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,9,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,0.1,02.Hydrozoa
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,9,4,unidentified,-,-,-,-,0.1,25.UNIDENTIFIED
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,10,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,76,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,10,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,76,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,10,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,0.1,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,10,3,crustacea_outro,Arthropoda,Crustacea,-,-,2,18.CRUSTACEA Others
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,10,3,crustacea_decapoda_paguridae,Arthropoda,Malacostraca,Paguridae,-,9,17.Decapoda
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,11,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,78,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,11,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,78,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,11,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,8,10.Cirratulidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,11,4,unidentified,-,-,-,-,0.66,25.UNIDENTIFIED
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,12,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,196,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,12,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,196,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,12,4,eggs_mollusca,Mollusca,-,-,-,9,19.EGGS Mollusca
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,12,4,echinodermata_ophiuroidea,Echinodermata,Ophiuroidea,Ophiuroidae,-,0.01,22.OTHER
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,12,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,24,10.Cirratulidae
@@ -680,23 +680,23 @@ chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_de
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,crustacea_amphipoda_caprellidae,Arthropoda,Amphipoda,Caprellidae,-,0.01,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,platyhelminthes,Platyhelminthes,-,-,-,0.6,22.OTHER
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,eggs_mollusca_gastropoda,Mollusca,Gastropoda,-,-,40,19.EGGS Mollusca
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,73,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,73,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,275,07.Hexac. Other
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,3,15.Amphipoda
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,13,3,algae,-,-,-,Bryopsis sp.,0.3,01.ALGAE
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,14,3,algae,-,-,-,-,5,01.ALGAE
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,14,3,unidentified,-,-,-,-,9,25.UNIDENTIFIED
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,14,3,echinodermata_ophiuroidea,Echinodermata,Ophiuroidea,Ophiuroidae,-,4,22.OTHER
-chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,14,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,47,08.Sabellidae
+chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,14,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,47,08.Sabellidae
 chaetodon_striatus,arraial,pedra.vermelha,-23,-42,25_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,14,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,3,15.Amphipoda
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,echinodermata_ophiuroidea,Echinodermata,Ophiuroidea,Ophiuroidae,-,7,22.OTHER
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,16,10.Cirratulidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,211,07.Hexac. Other
-chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,34,08.Sabellidae
+chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,34,08.Sabellidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,crustacea_amphipoda_gammaridae,Arthropoda,Amphipoda,Gammaridae,-,4,15.Amphipoda
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,eggs_mollusca,Mollusca,-,-,-,50,19.EGGS Mollusca
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,15,3,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,1,02.Hydrozoa
-chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,16,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,62,08.Sabellidae
+chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,16,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,62,08.Sabellidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,16,3,echinodermata_ophiuroidea,Echinodermata,Ophiuroidea,Ophiuroidae,-,31,22.OTHER
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,16,3,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,8,10.Cirratulidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,16,3,polychaeta_outro,Annelida,Polychaeta,-,-,25,14.POLYCHAETA Other
@@ -704,7 +704,7 @@ chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_d
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,16,3,digested_organic_matter,-,-,-,-,97,24.DIGESTED ORGANIC MATTER
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,19,1,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,45,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,22,10.Cirratulidae
-chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,148,08.Sabellidae
+chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,148,08.Sabellidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,fish_scales,Chordata,Piscis,-,-,14,22.OTHER
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,116.8,07.Hexac. Other
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,calcareous_skeletons,-,-,-,-,2,23.INORGANIC
@@ -716,7 +716,7 @@ chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_d
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,20,4,unidentified,-,-,-,-,22,25.UNIDENTIFIED
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,fish_scales,Chordata,Piscis,-,-,9,22.OTHER
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,echinodermata_ophiuroidea,Echinodermata,Ophiuroidea,Ophiuroidae,-,20,22.OTHER
-chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,94,08.Sabellidae
+chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,94,08.Sabellidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,polychaeta_cirratulidae,Annelida,Polychaeta,Cirratulidae,-,56,10.Cirratulidae
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,algae,-,-,-,-,0.6,01.ALGAE
 chaetodon_striatus,arraial,saco.do.anequim,-23,-42,24_feb_2010,formaldehyde_10_degrees,formaldehyde_5_degrees,21,4,unidentified,-,-,-,-,4,25.UNIDENTIFIED
@@ -731,11 +731,11 @@ chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,60,4,unidentified,-,-,-,-,6,25.UNIDENTIFIED
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,60,4,polychaeta_outro,Annelida,Polychaeta,-,-,26,14.POLYCHAETA Other
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,61,3,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,1,02.Hydrozoa
-chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,61,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,32,08.Sabellidae
+chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,61,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,32,08.Sabellidae
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,61,3,polychaeta_outro,Annelida,Polychaeta,-,-,8,14.POLYCHAETA Other
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,61,3,unidentified,-,-,-,-,0.5,25.UNIDENTIFIED
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,61,3,cnidaria_anthozoa_hexacorallia_actiniaria,Cnidaria,Anthozoa,Actiniaria,-,75,04.Hexac. Actiniaria
-chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,62,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,12,08.Sabellidae
+chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,62,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,12,08.Sabellidae
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,62,3,cnidaria_anthozoa_hexacorallia_coralliscler,Cnidaria,Anthozoa,Coralliscler,-,150,06.Hexac. Corallim./ Scle.
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,62,3,polychaeta_outro,Annelida,Polychaeta,-,-,0.5,14.POLYCHAETA Other
 chaetodon_striatus,florianopolis,ilha.do.arvoredo,-27.283333,-48.366667,03_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,62,3,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,4,02.Hydrozoa
@@ -763,7 +763,7 @@ chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_201
 chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,67,4,cnidaria_hydrozoa,Cnidaria,Hydrozoa,-,-,2,02.Hydrozoa
 chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,67,4,polychaeta_outro,Annelida,Polychaeta,-,-,3,14.POLYCHAETA Other
 chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,68,3,cnidaria_anthozoa_hexacorallia_outro,Cnidaria,Anthozoa,Hexacorallia,-,9,07.Hexac. Other
-chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,68,3,polychaeta_sabellidae ,Annelida,Polychaeta,Sabellidae,-,1.5,08.Sabellidae
+chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,68,3,polychaeta_sabellidae,Annelida,Polychaeta,Sabellidae,-,1.5,08.Sabellidae
 chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,68,3,polychaeta_outro,Annelida,Polychaeta,-,-,10.5,14.POLYCHAETA Other
 chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,68,3,algae,-,-,-,-,0.3,01.ALGAE
 chaetodon_striatus,florianopolis,ilha.do.xavier,-27.611092,-48.385503,07_feb_2011,formaldehyde_10_degrees,formaldehyde_5_degrees,68,3,algae,-,-,-,-,1,01.ALGAE
