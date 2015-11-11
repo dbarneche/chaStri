@@ -12,7 +12,7 @@ This repository contains all data, analyses, figures and tables presented at the
 * this file `source()`s all the `analysis-[*].R` files, `figures.R`, and all alternative figures in the `alternativeFigures/` directory (not presented in the paper);  
 * in particular, the file called `figures.R` reproduces all the figures exactly as they are shown in the paper and online ESM **once** you have already reproduced all the outputs by running all the `analysis-[*].R` files above;  
 * the figures will be automatically placed in a directory called output (it is going to be automatically created for you);  
-* **Importantly**, the figures will only work if you have the packages `extrafont` and `fontcm` installed. Follow the instructions [here](https://cran.r-project.org/web/packages/fontcm/README.html) to install the font `CM Roman`;  
+* **Importantly**, the alternative figures will only work if you have the packages `extrafont` and `fontcm` installed. Follow the instructions [here](https://cran.r-project.org/web/packages/fontcm/README.html) to install the font `CM Roman`;  
 * notice that the Bayesian analysis in `analysis-density.R` may take a few hours to run on a regular computer;  
 
 ### The paper can be reproduced using the following software and associated packages:

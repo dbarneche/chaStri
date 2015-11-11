@@ -41,7 +41,7 @@ fig.path  <-  function(name) {
 to.dev <- function(expr, dev, filename, ..., verbose=TRUE) {
   if ( verbose )
     cat(sprintf('Creating %s\n', filename))
-  dev(filename, family='CM Roman', ...)
+  dev(filename, ...)
   on.exit(dev.off())
   eval.parent(substitute(expr))
 }
@@ -74,6 +74,13 @@ drawBayesDensOverlap  <-  function(data, response, responseNums, responseLabels)
     label(0.08, yLabPos, unique(data[[responseLabels]]), adj=c(0, 0.5), cex=0.8)
 }
 
+halfCircle  <-  function(x, y, r, start=0, end=pi, nsteps=30, ...) {
+   rs  <-  seq(start, end, len=nsteps)
+   xc  <-  x + r * cos(rs)
+   yc  <-  y + r * sin(rs)
+   lines(xc, yc, ...)
+}
+
 ###############
 # PAPER FIGURES
 ###############
@@ -101,7 +108,7 @@ fig1  <-  function() {
 	layout(cbind(matrix(1, 4, 2), matrix(2:9, 4, 2, byrow=TRUE)))
 	
 	#map
-	par(mai=c(0.596, 0.264, 0.264, 0.9))
+	par(family='ArialMT', mai=c(0.596, 0.264, 0.264, 0.9))
 	plot(0, 0, type='n', axes=FALSE, xlab='', ylab='', xlim=c(-100, -30), ylim=c(-40, 35))
 	lines(mp[,1], mp[,2], type="l", lwd=0.5, xpd=NA)
 	points(coords$lon, coords$lat, pch=coords$shape, col='black', bg=coords$color, cex=1.5)
@@ -147,7 +154,7 @@ fig2  <-  function() {
 	# abundance
 	MCMCParameters$siteLabels   <-  siteLabels[match(MCMCParameters$site, siteNames)]
 	MCMCParameters$siteNums     <-  siteNumbers[match(MCMCParameters$site, siteNames)]
-	par(mfrow=c(1, 2), mai=c(1.02,1,0.42,0.42), cex=1)
+	par(family='ArialMT', mfrow=c(1, 2), mai=c(2.02,1,0.42,0.42), cex=1)
 	plot(NA, xlim=c(0, 2.6), ylim=c(0,3), xlab=expression(paste('Average density (inds. / 200 m'^2, ')')), ylab='Posterior density', axes=FALSE)
 	usr  <-  par('usr')
 	rect(usr[1], usr[3], usr[2], usr[4], col='grey90', border=NA)
@@ -157,8 +164,51 @@ fig2  <-  function() {
 	d_ply(MCMCParameters, .(siteNums), drawBayesDensOverlap, response='estimates', responseNums='siteNums', responseLabels='siteLabels')
 	label(.05, .95, 'A', font=2, adj=c(0.5,0.5))
 
+	# phylogeny
+	dens      <-  readFile('data/phylogeny_densities.csv')
+	coords    <-  readFile('data/phylogeny_sites_coords.csv')
+	mp        <-  read.table('data/map.dat', header=TRUE)
+	names(mp) <-  c('lon','lat')
+	mp        <-  mp[mp$lon > -98 & mp$lon < -28, ]
+	mp        <-  mp[mp$lat > -34 & mp$lat < 34.5, ]
+
+	par(mai=c(0.05, 0.1, 0.22, 0.42))
+	plot(0, 0, type='n', axes=FALSE, xlab='', ylab='', xlim=c(-100, -30), ylim=c(-40, 35))
+	lines(mp[,1], mp[,2], lwd=0.5, xpd=NA)
+	lines(c(-98, -24, -24, -98, -98), c(-34, -34, 34.5, 34.5, -34), lty=2, col='grey40', xpd=NA)
+	lines(c(-100, -98), c(-30, -30)); text(-99, -30, -30, pos=2, cex=0.9, xpd=NA)
+	lines(c(-100, -98), c(-15, -15)); text(-99, -15, -15, pos=2, cex=0.9, xpd=NA)
+	lines(c(-100, -98), c(0, 0)); text(-99, 0, 0, pos=2, cex=0.9, xpd=NA)
+	lines(c(-100, -98), c(15, 15)); text(-99, 15, 15, pos=2, cex=0.9, xpd=NA)
+	lines(c(-100, -98), c(30, 30)); text(-99, 30, 30, pos=2, cex=0.9, xpd=NA)
+	polygon(c(-30, -29, -28, -30), c(24, 30, 24, 24), col='black')
+	text(-29, 32, 'N', adj=c(0.5, 0.5), cex=0.8)
+	lines(c(-96, -96), c(34.5, 36.5)); text(-96, 39, -96, adj=c(0.7, 0.5), cex=0.9, xpd=NA)
+	lines(c(-62.5, -62.5), c(34.5, 36.5)); text(-62.5, 39, -62.5, adj=c(0.6, 0.5), cex=0.9, xpd=NA)
+	lines(c(-29, -29), c(34.5, 36.5)); text(-29, 39, -29, adj=c(0.7, 0.5), cex=0.9, xpd=NA)
+	label(.1, .93, 'B', font=2, adj=c(0.5,0.5))
+
+	dens$props   <-  sqrt(dens$inds_per_m2/max(dens$inds_per_m2))*10
+	latlon       <-  coords[match(dens$site, coords$locality), c('Longitude', 'Latitude')]
+	points(latlon[,1], latlon[,2], pch=16, cex=dens$props, col=make.transparent('tomato', 0.3), xpd=NA)
+
+	props  <-  c(2, 6, 10)
+	for(k in 1:3) {
+		r  <-  par('cxy')[1]/4*props[k]
+		halfCircle(-94+r, -30, r)
+		lines(rep(-94+r*2, 2), c(-30, -30.5))
+		text(-94+r*2, -32, round(max(dens$inds_per_m2)*(props[k]/10), 2), adj=c(0,0.5), cex=0.5)
+	}
+	lines(c(-94, -94+r*2), rep(-30, 2))
+	text(-94+r, -21, substitute('Inds. / m'^2), adj=c(0.5,0.5), cex=0.8)
+}
+
+fig3  <-  function() {
+	siteNames    <-  c('puerto_rico', 'tamandare', 'salvador', 'abrolhos', 'guarapari', 'arraial', 'florianopolis')
+	siteLabels   <-  c('Puerto Rico', 'Tamandaré', 'Salvador', 'Abrolhos', 'Guarapari', 'A. do Cabo', 'Florianópolis')
+	
 	# bites
-	par(mai=c(1.02,0.7,0.42,0.72))
+	par(family='ArialMT', omi=c(0.5, 0.5, 0.3, 0.2), cex=1, cex.lab=1.2, cex.axis=0.9, mai=c(0.5, 0.62, 0.72, 0))
 	avBites            <-  data.frame(coef(summary(bitesNegBin)))
 	avBites$ci2.5      <-  avBites$Estimate - 1.96*avBites$Std..Error
 	avBites$ci97.5     <-  avBites$Estimate + 1.96*avBites$Std..Error
@@ -179,10 +229,9 @@ fig2  <-  function() {
 		points(k, avBites$Estimate[rownames(avBites) == siteNames[k]], cex=0.9, pch=21, col='dodgerblue4', bg='dodgerblue2')
 	}
 	text(1:length(siteNames), -3.5, labels=siteLabels, srt=45, xpd=NA, adj=c(1, 0.5), cex=0.9)
-	label(.05, .95, 'B', font=2, adj=c(0.5,0.5))
 }
 
-fig3  <-  function() {
+fig4  <-  function() {
 	coords    <-  readFile('data/sites_coords.csv')
 	###############################
 	# LABELING SITES AND DIET ITEMS
@@ -194,7 +243,7 @@ fig3  <-  function() {
 	#######
 	# GRAPH
 	#######
-	par(mfrow=c(8, 1), omi=c(rep(0.5, 3), 0.8), mai=c(0, 0.53, 0, 0.1), cex=1, cex.axis=0.8, cex.lab=0.8)
+	par(family='ArialMT', mfrow=c(8, 1), omi=c(rep(0.5, 3), 0.8), mai=c(0, 0.53, 0, 0.1), cex=1, cex.axis=0.8, cex.lab=0.8)
 
 	for(i in seq_along(siteOrder)) {
 		results1  <-  results[results$site == siteOrder[i], ]
@@ -224,11 +273,11 @@ fig3  <-  function() {
 	mtext('Substratum', outer=TRUE, side=1, cex=1.5, line=-0.5)
 }
 
-fig4  <-  function() {
+fig5  <-  function() {
 	gut     <-  readFile('data/gut_length_all.csv')
 	gcs     <-  readFile('data/gut_length_c_striatus_raw.csv')
 	gcs$qi  <-  gcs$gut_length_cm / gcs$size_cm
-	par(omi=c(0.5, 0.5, 0.3, 0.2), cex=1, cex.lab=1.2, cex.axis=0.9, mai=c(0.5, 0.62, 0.72, 0))
+	par(family='ArialMT', omi=c(0.5, 0.5, 0.3, 0.2), cex=1, cex.lab=1.2, cex.axis=0.9, mai=c(0.5, 0.62, 0.72, 0))
 
 	plot(0, 0, type='n', xlim=c(0.5, nrow(gut)+1), ylim=c(0.7, 9), xlab ='', ylab='Relative gut length (mm / mm)', yaxt='n', xaxt='n', yaxs='i', xpd=NA, axes=FALSE)
 	usr  <-  par('usr')
@@ -258,10 +307,10 @@ fig4  <-  function() {
 
 }
 
-fig5  <-  function() {
+fig6  <-  function() {
 	avRnaPersite  <-  ddply(rna, .(site), draw95Ci, response='ln_r_d_ratio')[c(2,3,1,4), ]
 	labs          <-  c('Puerto Rico', 'Salvador', 'Guarapari', 'Florianópolis')
-	par(omi=c(0.5, 0.5, 0.3, 0.2), cex=1, cex.lab=1.2, cex.axis=0.9, mai=c(0.5, 0.62, 0.72, 0))
+	par(family='ArialMT', omi=c(0.5, 0.5, 0.3, 0.2), cex=1, cex.lab=1.2, cex.axis=0.9, mai=c(0.5, 0.62, 0.72, 0))
 	plot(NA, xlim=c(0.7, 4.3), ylim=c(0, 2), xlab='', ylab='RNA / DNA ratio', xpd=NA, axes=FALSE)
 	usr  <-  par('usr')
 	rect(usr[1], usr[3], usr[2], usr[4], col='grey90', border=NA)
@@ -310,7 +359,7 @@ figS1  <-  function() {
 	#######
 	nums                     <-  seq_along(siteOrder)
 	summaryNewCover$siteNum  <-  nums[match(summaryNewCover$site, siteOrder)]
-	par(mfrow=c(8, 1), omi=c(rep(0.5, 3), 0.8), mai=c(0, 0.53, 0, 0.1), cex=1, cex.axis=0.8, cex.lab=0.8)
+	par(family='ArialMT', mfrow=c(8, 1), omi=c(rep(0.5, 3), 0.8), mai=c(0, 0.53, 0, 0.1), cex=1, cex.axis=0.8, cex.lab=0.8)
 	ddply(summaryNewCover, .(siteNum), figS1Plots, foodOrder=foodOrder, siteLabel=siteLabel, siteOrder=siteOrder)	
 
 	xpos=c(0.7,1.9,3.1,4.3,5.5,6.7,7.9,9.1,10.3,11.5,12.7)
